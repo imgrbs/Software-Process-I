@@ -1,4 +1,4 @@
-package software.process.software.process.ProductService;
+package software.process.ProductService;
 
 
 import org.junit.Assert;

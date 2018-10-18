@@ -1,4 +1,4 @@
-package software.process.software.process;
+package software.process;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
