@@ -11,7 +11,7 @@
 To run project, please setup your database first!
 
 1. create database.
-> I prefer to use `promptkai` :D
+> I prefer to use database name `promptkai` :D
 2. import promptkai.sql to your database.
 3. replace value in `application.properties` with your database name, username and password.
 
@@ -33,7 +33,7 @@ spring.datasource.password={your-db-password}
 4. Finish!
 
 
-## Run and Enjoy 🎉 !
+## Run and Enjoy 🎉 
 
 1. Use command to open `api` directory such as `cd ./api`.
 2. Use command `java -jar ./target/*.jar` to run *.jar* file.
