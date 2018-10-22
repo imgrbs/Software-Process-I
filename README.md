@@ -36,6 +36,6 @@ spring.datasource.password={your-db-password}
 ## Run and Enjoy 🎉 !
 
 1. Use command to open `api` directory such as `cd ./api`.
-2. Use command `java -jar ./target/*.jar` to run *.jar* file
+2. Use command `java -jar ./target/*.jar` to run *.jar* file.
 
-if run with no error, you can open a html file in `frontend/index.html` and see a result.
+if no error occurs, you can open a html file in `frontend/index.html` and see a result.
